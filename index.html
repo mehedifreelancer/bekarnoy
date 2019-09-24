@@ -475,11 +475,14 @@
 <script type="text/javascript">
     $(document).ready(function() {
         $('.sliderOne').slick({
+        //    autoplay:true,
+            autoplaySpeed:2500,
             dots: false,
             infinite: false,
             speed: 700,
-            slidesToShow: 3,
-            slidesToScroll: 3,
+            slidesToShow: 4,
+            slidesToScroll: 4,
+            infinite:true,
             stopAtEnd: true,
             prevArrow: '<span role="button" class="fa fa-chevron-left video-charvon-left" ><span > </span></span> ',
             nextArrow: '<span role="button" class="fa fa-chevron-right video-charvon" ><span > </span></span> ',
@@ -521,8 +524,10 @@
 
 
         $('.sliderTwo').slick({
+            autoplay:true,
+            autoplaySpeed:2500,
             dots: false,
-            infinite: false,
+            infinite: true,
             speed: 700,
             slidesToShow: 2,
             slidesToScroll: 2,
