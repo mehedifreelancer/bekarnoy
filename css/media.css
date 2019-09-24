@@ -1,0 +1,104 @@
+@media (min-width: 1200px) {
+    .container {
+        width: 820px;
+    }
+
+}
+
+@media (max-width: 796px) {
+      .navbar-brand img {
+       margin-left: 0px;
+   }
+
+
+}
+
+
+@media (max-width: 772px) {
+
+    .sliderOne {
+        margin-top: 30px;
+    }
+}
+
+
+
+@media (max-width: 772px) {
+
+    .long-box {
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 772px) {
+    #footer i {
+        color: white;
+        font-size: 12px;
+        margin: 10px 8px;
+    }
+
+}
+
+@media (max-width: 1324px) {
+    .menImage img {
+        width: 350px;
+        height: 200px;
+    }
+
+
+
+}
+
+@media (max-width: 1219px) {
+    .menImage img {
+        width: 280px;
+        height: 120px;
+    }
+
+
+
+}
+
+@media (max-width: 1000px) {
+    .menImage img {
+        display: none;
+    }
+
+
+
+}
+
+@media (max-width: 933px) {
+    .contactBox h2 {
+        color: white;
+        font-size:22px;
+    }
+
+}@media (max-width: 867px) {
+      .bottomBg {
+       height: 1050px;
+       width: 100%;
+       position: relative;
+   }
+    
+     .contactBox {
+       margin: 0px auto;
+       margin-top: 560px;
+       max-width: 70%;
+       
+   }
+    
+
+}
+
+@media (max-width: 796px) {
+  
+         .bottomBg {
+       height: 1050px;
+       width: 100%;
+       position: relative;
+       margin-top: -350px;
+    
+   }
+
+}
