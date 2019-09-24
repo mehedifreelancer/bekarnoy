@@ -12,8 +12,9 @@
 }
     
     @media (max-width: 1363px) {
-    body{
-    background:green;
+        .left-content{
+            background:red;
+        }
 
 }
 
