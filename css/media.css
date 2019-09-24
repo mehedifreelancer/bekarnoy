@@ -10,6 +10,12 @@
     background:red;
 
 }
+    
+    @media (max-width: 1363px) {
+    body{
+    background:green;
+
+}
 
 @media (max-width: 796px) {
       .navbar-brand img {
