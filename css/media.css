@@ -6,17 +6,18 @@
 }
 
 @media (min-width: 1363px) {
-    body{
-    background:red;
+    .container{
+        width:1270px;
+    }
+    #banner{
+       height:885px;
+     }
+    .bottombg{
+     margin-top:-50px
+    }
 
 }
     
-    @media (max-width: 1363px) {
-        .left-content{
-            background:red;
-        }
-
-}
 
 @media (max-width: 796px) {
       .navbar-brand img {
