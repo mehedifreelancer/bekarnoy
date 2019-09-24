@@ -5,6 +5,12 @@
 
 }
 
+@media (min-width: 1363px) {
+    body{
+    background:red;
+
+}
+
 @media (max-width: 796px) {
       .navbar-brand img {
        margin-left: 0px;
