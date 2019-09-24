@@ -6,11 +6,7 @@
 
 body {
 
-
-
-
     font-family: 'Tw Cen MT';
-    font-family: "Berlin Sans FB Demi";
 }
 
 
@@ -66,9 +62,9 @@ body {
 
    #banner {
        background: #00bff3;
-       height: 150px;
        position: relative;
-       height: 650px;
+       /*height: 650px;*/
+       height: 715px;
        overflow: hidden;
    }
 
@@ -302,7 +298,7 @@ body {
 
    .slick-initialized .slick-slide {
        display: block;
-       margin: 5px 55px;
+       margin: 5px 64px;
    }
 
    .bottomBg {
